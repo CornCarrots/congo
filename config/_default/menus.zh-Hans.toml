@@ -11,18 +11,18 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "文档"
-  pageRef = "docs"
+  name = "文章"
+  pageRef = "posts"
   weight = 10
 
 [[main]]
-  name = "示例"
-  pageRef = "samples"
+  name = "分类"
+  pageRef = "categories"
   weight = 20
 
 [[main]]
-  name = "用户"
-  pageRef = "users"
+  name = "标签"
+  pageRef = "tags"
   weight = 30
 
 [[main]]
