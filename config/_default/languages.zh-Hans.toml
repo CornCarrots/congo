@@ -15,10 +15,11 @@ copyright = "&copy; 2025 luckya contributors"
 
 # Language-specific parameters go here
 [params.author]
-  name = "顾宇"
-  image = "/img/author.jpg"
-  headline = ""
-  bio = "www.guyu.me"
+  name = "linhao"
+  image = "/img/author.jpeg"
+  headline = "Everything goes well!"
+  bio = "In case I don't see ya, good afternoon, good evening, and good night!"
   links = [
-    { github = "https://github.com/wizardbyron" }
+    { email = "linhaocoder@foxmail.com" },
+    { github = "https://github.com/CornCarrots" },
   ]
