@@ -16,7 +16,7 @@ copyright = "&copy; 2025 luckya contributors"
 # Language-specific parameters go here
 [params.author]
   name = "linhao"
-  image = "/img/author.jpeg"
+  image = "img/author.jpeg"
   headline = "Everything goes well!"
   bio = "In case I don't see ya, good afternoon, good evening, and good night!"
   links = [
