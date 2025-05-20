@@ -5,10 +5,10 @@
 baseURL = "https://luckya.xyz/"
 defaultContentLanguage = "zh-Hans"
 
-hasCJKLanguage = true
 enableRobotsTXT = true
-pagination.pagerSize = 10
 summaryLength = 0
 
+[pagination]
+  pagerSize = 10
 [outputs]
   home = ["HTML", "RSS", "JSON"]
