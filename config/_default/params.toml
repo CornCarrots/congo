@@ -37,7 +37,6 @@ enableImageWebp = true
   showWordCount = true
   showTaxonomies = true
   showTableOfContents = true
-  showWordCount = true
 
 [list]
   showTableOfContents = true
